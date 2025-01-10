@@ -37,4 +37,4 @@ Call centers play a critical role in customer service and business operations. T
 - Data and dashboard created using Microsoft Excel.
 
 ## Dashboard Preview
-![image](/Excel_Project\Dashboard.png)
+![image](https://github.com/PriyaaGaur7/Call_Center_Data_Analysis/blob/main/Dashboard.png)
